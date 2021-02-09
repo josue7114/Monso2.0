@@ -1,0 +1,25 @@
+.logo-monso{
+    width: 100px;
+    margin-left: 150px;
+
+}
+
+.navCos{
+    background: rgba(97,177,90, 0.5);
+}
+
+.footer{
+    background: rgba(255,206,137, 0.7);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: #61b15a;
+    left: 0%;
+}
+.foot{
+    text-align: right;
+    flex-direction: row;
+    margin-top: 5px;
+}
+
