@@ -27,10 +27,10 @@ and open the template in the editor.
                             <a class="nav-link " href="../conservas/InicioConservas.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Productos</a>
+                            <a class="nav-link" href="../conservas/Productos.php">Productos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contacto</a>
+                            <a class="nav-link" href="../Contacto.php">Contacto</a>
                         </li>
                     </ul>
                 </div>
