@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Monso Conservas -Inicio-</title>
+        <title>MONSO Conservas -Inicio-</title>
         <link href="../resources/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <script src="../resources/JQuery-3.5.1.js" type="text/javascript"></script>
         <script src="../resources/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>

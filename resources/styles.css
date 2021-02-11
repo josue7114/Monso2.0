@@ -1,3 +1,32 @@
+.logo-monso{
+    width: 100px;
+    margin-left: 150px;
+}
+
+.nav{
+    background: rgba(199, 255, 200);
+}
+
+.listnav{
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.linknav{
+    text-decoration: none;
+    color: black;
+}
+
+.linknav:hover{
+    color: #ff0064;
+}
+
+.forms {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 5vh;
+}
 .imgMain{
     -webkit-transition:all .3s ease; /* Safari y Chrome */
     -moz-transition:all .3s ease; /* Firefox */
@@ -53,7 +82,7 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 40px;
+
     color: white;
     left: 0%;
 }
@@ -62,4 +91,80 @@
     text-align: right;
     flex-direction: row;
     margin-top: 5px;
+}
+
+
+
+.login {
+    margin: 100px auto;
+    width: 400px;
+}
+.login-screen {
+    background-color: #FFF;
+    padding: 30px;
+    border-radius: 5px
+}
+
+.app-title {
+    text-align: center;
+    color: #777;
+}
+
+.login-form {
+    margin-top: 15px;
+    text-align: center;
+}
+.control-group {
+    margin-bottom: 10px;
+}
+
+input {
+    text-align: center;
+    background-color: #ECF0F1;
+    border: 2px solid transparent;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 10px 0;
+    width: 250px;
+    transition: border .5s;
+}
+
+input:focus {
+    border: 2px solid #3498DB;
+    box-shadow: none;
+}
+
+.btn {
+    border: 2px solid transparent;
+    background: #88e4a2;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 0;
+    text-decoration: none;
+    text-shadow: none;
+    border-radius: 3px;
+    box-shadow: none;
+    transition: 0.25s;
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.btn:hover {
+    background-color: #00ffbb ;
+}
+
+.login-link {
+    font-size: 12px;
+    color: #444;
+    display: block;
+    margin-top: 12px;
+}
+
+.body {
+    font-family: Arial;
+    background-color: #88e4a2;
+    padding: 50px;
 }

@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Página de inicio -Monso-</title>
+        <title>Página de inicio -MONSO-</title>
         <link href="resources/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="resources/styles.css" rel="stylesheet" type="text/css"/>
         <script src="resources/JQuery-3.5.1.js" type="text/javascript"></script>

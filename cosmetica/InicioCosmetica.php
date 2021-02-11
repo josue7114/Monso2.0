@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Monso Cosmética -Inicio-</title>
+        <title>MONSO Cosmética -Inicio-</title>
         <link href="../resources/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="../resources/CosmeticaStyles.css" rel="stylesheet" type="text/css"/>
         <script src="../resources/JQuery-3.5.1.js" type="text/javascript"></script>
@@ -20,7 +20,6 @@ and open the template in the editor.
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <a class="navbar-brand" href="../index.php"><img src="../resources/img/Monso.svg" class="logo-monso"/></a>
-
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                         <li class="nav-item active">
@@ -37,6 +36,9 @@ and open the template in the editor.
                 </div>
             </nav>
         </header>
+        <div class="container">
+            
+        </div>
         <footer class="footer">
             <div>
                 <p class="foot">Sitio web desarrollado por <a href="https://www.linkedin.com/in/josu%C3%A9-cordero-5b9747163/" target="_blank">Cordero</a></p>
